@@ -1,1 +1,1 @@
-# A-simple-to-do-list-using-JavaScript-and-the-DOM.
+Create a to-do list with add, display, and remove tasks functionality.
